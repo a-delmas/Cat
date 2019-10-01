@@ -1,0 +1,165 @@
+*:not(container) {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5em;
+    display: inline-block;
+}
+
+nav {
+    display: block;
+    width : 100%;
+    background-color: #2c3e50;
+    color: white; 
+}
+
+li {
+    width: 20%;
+    margin: auto;
+    display: inline-block;
+    text-align: right;
+}
+
+ul {
+    width: 50%;
+    display: inline-block;
+}
+.cat {
+    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+}
+
+#tittle {
+    font-size: 5em;
+}
+
+header {
+    padding-bottom: 2em;
+}
+
+header p {
+    font-size: 1.5em
+}
+
+header, .About, #submit, .btn {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.btn {
+    margin-bottom: 5px;
+    padding: 1em;
+    font-size: 1em;
+    border-radius: 1px;
+    font-weight: bold;
+}
+
+.fas {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-top: 2em;
+}
+
+.img {
+    width : 30%;
+    padding: 10px;
+    margin: 2px;
+}
+
+.About h2 {
+    color: white;
+}
+
+.About p {
+    width: 48%;
+    display: inline-block;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+footer {
+    background-color: #2c3e50;
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.location, .around, .free {
+    width: 30%;
+    display: inline-block;
+}
+
+h4 {
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+.end {
+    background-color: #1a252f;
+    color: white;
+}
+
+.form {
+    color: #2c3e50;
+}
+
+#email {
+    width: 90%;
+    padding: 1em;
+    border-width: 0px 0px 1px 0px;
+}
+
+#container {
+    width: 50%;
+    margin: auto;
+    padding: 1em;
+    font-size: .5em;
+}
+
+#comments {
+    width: 100%;
+    border-width: 0px 0px 1px 0px;
+}
+
+#first_name, #last_name {
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    border-width: 0px 0px 1px 0px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1em;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em;
+    text-align: left;
+    color: #6c757d;
+}
+
+#submit {
+    margin: auto;
+    font-size: 2em;
+    margin-top: 1em;
+    border-radius: 1px;
+    text-align: left;
+    padding: 1em;
+    margin-bottom: 1em;
+    margin-left: -30em;
+}
+
+#phone {
+    margin: auto;
+    width: 95%;
+    padding: 1em;
+    border-width: 0px 0px 1px 0px;
+}
